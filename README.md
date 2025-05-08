@@ -96,7 +96,6 @@ npm run dev
 docker-compose up -d
 ```
 
-
 2. Tarayıcınızda `http://localhost:3000` adresine giderek uygulamaya erişebilirsiniz.
 
 
