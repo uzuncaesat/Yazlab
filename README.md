@@ -117,4 +117,23 @@ docker-compose up -d
 
 
 ## Ekran Resimleri
+**ADAY PANELİ**
 ![resim1](resim1.jpg)
+
+**ADMİN PANELİ**
+![resim2](resim2.jpg)
+
+**YÖNETİCİ PANELİ**
+![resim3](resim3.jpg)
+
+**JÜRİ PANELİ**
+![resim4](resim4.jpg)
+
+**ANA SAYFA**
+![resim5](resim5.jpg)
+
+**GİRİŞ SAYFASI**
+![resim6](resim6.jpg)
+
+
+
