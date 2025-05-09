@@ -117,4 +117,4 @@ docker-compose up -d
 
 
 ## Ekran Resimleri
-C:\Users\esat berat\Desktop\Yeni klasör\resim1.jpg
+![resim1](resim1.jpg)
